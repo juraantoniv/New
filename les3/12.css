@@ -1,0 +1,17 @@
+.target {
+    width: 800px;
+    height: 400px;
+    background: silver;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.target1{
+    width: auto;
+    height: auto;
+    margin: 5px;
+    background: yellow;
+    border: 5px solid red ;
+    box-shadow: 60px -16px 100px gold ;
+
+}
